@@ -1,3 +1,7 @@
-document.body.style.border = "5px red dotted";
-let select = document.getElementById("txtDominios")
-select.value = "sistemas"
+let selector = document.getElementById("txtDominios")
+
+async function onLoad(){
+    const result = await browser.storage.local.get({"value":0})
+    selector.value = result.value
+}
+onLoad()
