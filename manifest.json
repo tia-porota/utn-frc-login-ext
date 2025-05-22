@@ -3,7 +3,7 @@
   "name": "UTN FRC Login",
   "version": "0.1",
 
-  "description": "Tired of always having to manually choose your domain on the FRC UTN login screen? We got you (only if you are from systems)",
+  "description": "Tired of always having to manually choose your domain on the FRC UTN login screen? We got you",
   "icons": { "48": "icons/default.ico" },
 
   "content_scripts": [
