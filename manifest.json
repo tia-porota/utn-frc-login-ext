@@ -1,7 +1,7 @@
 {
-  "manifest_version": 2,
+  "manifest_version": 3,
   "name": "UTN FRC Login",
-  "version": "0.1",
+  "version": "1.0",
 
   "description": "Tired of always having to manually choose your domain on the FRC UTN login screen? We got you",
   "icons": { "48": "icons/default.ico" },
@@ -12,7 +12,7 @@
         "js": ["app.js"]
     }
   ],
-  "browser_action": {
+  "action": {
     "default_popup": "/popup/popup.html"
   },
   "permissions": ["storage"]
