@@ -1,5 +1,5 @@
 {
-  "manifest_version": 3,
+  "manifest_version": 2,
   "name": "UTN FRC Login",
   "version": "1.0",
 
@@ -12,7 +12,7 @@
         "js": ["app.js"]
     }
   ],
-  "action": {
+  "browser_action": {
     "default_popup": "/popup/popup.html"
   },
   "permissions": ["storage"]
