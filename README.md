@@ -1,9 +1,35 @@
 # UTN FRC LOGIN EXTENSION
 
-Tired of always having to manually choose your domain on the FRC UTN login screen? 
-We got you!
+¿Cansado de siempre tener que seleccionar manualmente tu extensión en la página de login de la UTN FRC?
+**Tenemos la solución**
+
+![asd]{src/image.png}
+
+## Instalación
+
+### Firefox
+
+Instala en pocos clicks, dirígete a la página oficial de la extensión en la Firefox Addon Store:
+
+https://addons.mozilla.org/es-ES/firefox/addon/utn-frc-login-ext/
+
+Haz click en "Agregar a Firefox" y listo.
+
+### Chrome
+
+[Guía general de cómo instalar extensiones manualmente desde Chrome](https://davidpob99.github.io/blog/2017/08/20/instalar-extensiones-desempaquetadas.html#google-chrome---chromium)
+
+Descarga el código fuente [haciendo click aquí](https://github.com/tia-porota/utn-frc-login-ext/releases/download/chrome/chrome-utn-frc-login-ext.zip) y descomprímelo utilizando winRar o 7zip.
+
+Luego, dirígete a **about://extensions** o a **chrome://extensions** (copia y pega en tu navegador)
 
 
-![Screenshot](https://raw.githubusercontent.com/tia-porota/utn-frc-login-ext/refs/heads/main/src/image.png)
+Habilita el modo desarrollador, luego, haz click en el botón "Cargar descomprimida".
 
-- © 2025 Vere "club de fans" Oviedo
+Selecciona a continuación la carpeta descomprimida.
+
+Por último, puedes fijar la extensión para mayor comodidad.
+## Créditos
+
+- © 2025 [Vere](https://github.com/tia-porota) "club de fans" Oviedo
+
