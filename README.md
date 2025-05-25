@@ -3,7 +3,7 @@
 ¿Cansado de siempre tener que seleccionar manualmente tu extensión en la página de login de la UTN FRC?
 **Tenemos la solución**
 
-![asd]{https://github.com/tia-porota/utn-frc-login-ext/blob/main/src/image.png?raw=true}
+![screenshot](https://github.com/tia-porota/utn-frc-login-ext/blob/main/src/image.png?raw=true)
 
 ## Instalación
 
