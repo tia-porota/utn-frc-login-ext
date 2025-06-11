@@ -9,7 +9,8 @@ async function setValue(value) {
 
 async function getValue(){
     const result = await browser.storage.local.get("value");
-    selector.value = !result ? "sistemas" : result.value;
+
+    selector.value = !result.value ? "sistemas" : result.value;
     
 
 }
