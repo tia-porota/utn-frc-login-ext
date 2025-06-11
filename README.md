@@ -15,13 +15,15 @@ https://addons.mozilla.org/es-ES/firefox/addon/utn-frc-login-ext/
 
 Haz click en "Agregar a Firefox" y listo.
 
-### Chrome
+### Chrome, Brave, Opera GX
+##### O cualquier navegador basado en Chromium
 
 [Guía general de cómo instalar extensiones manualmente desde Chrome](https://davidpob99.github.io/blog/2017/08/20/instalar-extensiones-desempaquetadas.html#google-chrome---chromium)
 
-Descarga el código fuente [haciendo click aquí](https://github.com/tia-porota/utn-frc-login-ext/releases/download/chrome/chrome-utn-frc-login-ext.zip) y descomprímelo utilizando winRar o 7zip.
 
-Luego, dirígete a **about://extensions** o a **chrome://extensions** (copia y pega en tu navegador)
+Descarga el código fuente [haciendo click aquí](https://github.com/tia-porota/utn-frc-login-ext/releases/download/chromiumBased/chrome-utn-frc-login-ext.zip) y descomprímelo utilizando winRar o 7zip.
+
+Luego, dirígete a **about://extensions** (copia y pega en tu navegador)
 
 
 Habilita el modo desarrollador, luego, haz click en el botón "Cargar descomprimida".
