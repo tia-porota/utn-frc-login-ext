@@ -1,7 +1,7 @@
 {
   "manifest_version": 3,
   "name": "UTN FRC Login",
-  "version": "1.1",
+  "version": "1.2",
 
   "description": "Tired of always having to manually choose your domain on the FRC UTN login screen? We got you",
   "icons": { "48": "icons/default.png" },
