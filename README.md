@@ -7,7 +7,7 @@
 
 ## Instalación
 
-### Firefox
+### Firefox & Firefox Android
 
 Instala en pocos clicks, dirígete a la página oficial de la extensión en la Firefox Addon Store:
 
