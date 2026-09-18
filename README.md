@@ -3,6 +3,7 @@
 ¿Cansado de siempre tener que seleccionar manualmente tu extensión en la página de login de la UTN FRC?
 **Tenemos la solución**
 
+La captura es viejita... NTP, funciona para la nueva página.
 ![screenshot](https://github.com/tia-porota/utn-frc-login-ext/blob/main/src/image.png?raw=true)
 
 ## Instalación
@@ -21,7 +22,7 @@ Haz click en "Agregar a Firefox" y listo.
 [Guía general de cómo instalar extensiones manualmente desde Chrome](https://davidpob99.github.io/blog/2017/08/20/instalar-extensiones-desempaquetadas.html#google-chrome---chromium)
 
 
-Descarga el código fuente [haciendo click aquí](https://github.com/tia-porota/utn-frc-login-ext/releases/download/chromiumBased/chrome-utn-frc-login-ext.zip) y descomprímelo utilizando winRar o 7zip.
+Descarga el código fuente [haciendo click aquí](https://github.com/tia-porota/utn-frc-login-ext/releases/download/browser/chromium-utn-frc-login-ext.zip) y descomprímelo utilizando winRar o 7zip.
 
 Luego, dirígete a **about://extensions** (copia y pega en tu navegador)
 
@@ -31,7 +32,11 @@ Habilita el modo desarrollador, luego, haz click en el botón "Cargar descomprim
 Selecciona a continuación la carpeta descomprimida.
 
 Por último, puedes fijar la extensión para mayor comodidad.
+
+#### ¿Por qué no lo subis a la Chrome web store?
+> sale mucha plata
+
 ## Créditos
 
-- © 2025 [Vere](https://github.com/tia-porota) "club de fans" Oviedo
+- © 2026 [Vero](https://github.com/tia-porota) "club de fans" Oviedo
 
