@@ -4,6 +4,8 @@
 **Tenemos la solución**
 
 La captura es viejita... NTP, funciona para la nueva página.
+
+
 ![screenshot](https://github.com/tia-porota/utn-frc-login-ext/blob/main/src/image.png?raw=true)
 
 ## Instalación
